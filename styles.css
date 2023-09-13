@@ -1,0 +1,21 @@
+/* Sample CSS */
+body {
+    font-family: Arial, sans-serif;
+    
+    width: 400px;
+  }
+  
+  select {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #353c60;
+    border-radius: 0.5em;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
